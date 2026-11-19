@@ -1,0 +1,46 @@
+[
+  {
+    "type": "starred",
+    "starredAt": "2025-02-14",
+    "repository": {
+      "name": "vite",
+      "owner": "vitejs",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling.",
+      "language": "TypeScript"
+    }
+  },
+  {
+    "type": "starred",
+    "starredAt": "2025-01-28",
+    "repository": {
+      "name": "fastapi",
+      "owner": "fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "A modern, fast web framework for building APIs with Python.",
+      "language": "Python"
+    }
+  },
+  {
+    "type": "starred",
+    "starredAt": "2024-12-09",
+    "repository": {
+      "name": "public-apis",
+      "owner": "public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs.",
+      "language": "Python"
+    }
+  },
+  {
+    "type": "starred",
+    "starredAt": "2024-11-17",
+    "repository": {
+      "name": "storybook",
+      "owner": "storybookjs",
+      "url": "https://github.com/storybookjs/storybook",
+      "description": "Frontend workshop for building UI components and pages in isolation.",
+      "language": "TypeScript"
+    }
+  }
+]
